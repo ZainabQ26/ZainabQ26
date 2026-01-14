@@ -3,7 +3,7 @@
 I'm a Computer Science student at Penn State University-Harrisburg with a passion for building practical applications and exploring how computers work.
 
 ##  About Me
-- I love devloping projects that blend real world problem-solving with technical skills
+- I love developing projects that blend real world problem-solving with technical skills
 - Currently deepening my knowledge in web and app development 
 - Based in Pennsylvania
 - Actively seeking a job
