@@ -16,16 +16,16 @@ I'm a Computer Science student at Penn State University-Harrisburg with a passio
 
 ## 🚀 Featured Projects
 
-### 🍪 [Cookie Store Web Application](https://github.com/zozo080212/Spring-Boot-)
+### 🍪 [Cookie Store Web Application](https://github.com/ZainabQ26/Spring-Boot-)
 A full-stack e-commerce web app built with Spring Boot and Java, featuring user authentication, CRUD operations for inventory management, and interactive UI with Thymeleaf templates.
 
-### 🎮 [JavaFX Application Suite](https://github.com/zozo080212/JAVA-FX)
+### 🎮 [JavaFX Application Suite](https://github.com/ZainabQ26/JAVA-FX)
 Collection of desktop applications including a Calculator, Minesweeper game, Notepad text editor, and animated Snowflakes visualization—all built with JavaFX to demonstrate GUI development skills.
 
-### 📊 [MIPS Assembly Programs](https://github.com/zozo080212/Assembly)
+### 📊 [MIPS Assembly Programs](https://github.com/ZainabQ26/Assembly)
 Low-level programming projects in MIPS Assembly including BMI calculator, loan interest calculator, and various mathematical operations using QtSPIM.
 
-### 📐 [Java OOP Projects](https://github.com/zozo080212/Java-3.0)
+### 📐 [Java OOP Projects](https://github.com/ZainabQ26/Java-3.0)
 Advanced Java projects demonstrating object-oriented design, file I/O, arrays, recursion, and algorithm implementation (Sieve of Eratosthenes, dynamic programming).
 
 ## 📫 Let's Connect!
